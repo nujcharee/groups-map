@@ -155,6 +155,7 @@ const LayoutStyles = styled.div<{ sidebar: boolean }>`
       }
 
       h3 {
+        padding-top: 0.6rem;
         font-size: 1.6rem;
         width: 100%;
       }
